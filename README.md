@@ -3,3 +3,8 @@ spring boot with oauth2 and mysql
 
 
 insert into test.user values(123,1,'test@gmail.com','testLname','Yadlappalli','tomcat');
+
+
+launch the url:
+
+localhost:9095/ui/
